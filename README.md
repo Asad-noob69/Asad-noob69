@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [MORSE-CODE](https://github.com/Asad-noob69/Morse-Code-Conversion.git)
 
-- 📝 I regularly write articles on [twitter](twitter)
+- 📝 I regularly write articles on [twitter](https://x.com/asadaliabbasi_)
 
 - 💬 Ask me about **ANYTHING**
 
