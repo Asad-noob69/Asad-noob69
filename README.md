@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on [LaalBus](https://laal-bus.vercel.app/)<br> 🌱 I’m currently learning **Node.js, MongoDB, Express, BackEnd**<br>📝 I regularly write articles on [twitter](https://x.com/asadaliabbasi_)<br> 💬 Ask me about **ANYTHING**<br> 📫 How to reach me **asadaliabbasi787@gmail.com**
+ 🔭 I’m currently working on Clients Projects<br> 🌱 I’m currently learning **Redis, Prisma, SQL, BackEnd**<br>📝 I regularly write articles on [twitter](https://x.com/asadaliabbasi_)<br> 💬 Ask me about **ANYTHING**<br> 📫 How to reach me **asadaliabbasi787@gmail.com**
 
 
 ## 🌐 Socials:
